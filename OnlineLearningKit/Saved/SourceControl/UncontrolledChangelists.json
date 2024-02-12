@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthWidget.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthEmpty.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthFull.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/dealth.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/HealCUE.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/DamageCue.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/Hour_of_Code/Blueprints/BP_gem.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/Hour_of_Code/Widgets/W_HUD.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/New.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/Neww.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/New3.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/damage.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/heal.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/heal_2.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/demage_2.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Obstacle.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/GameOver.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/1.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/2.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/3.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/4.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/5.umap",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/NewBlueprint.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.uasset",
+				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/HealthCUE.uasset"
+			]
+		}
+	]
+}
