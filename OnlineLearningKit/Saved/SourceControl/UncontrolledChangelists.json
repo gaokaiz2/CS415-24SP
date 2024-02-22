@@ -39,6 +39,23 @@
 				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Maps/5.umap",
 				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/NewBlueprint.uasset",
 				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Bullet.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Turret2.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Turret.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/BP_Bullet_2.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2_Patio.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2x4.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/GameFinish.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/GameOver.uasset",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Maps/1.umap",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/2.umap",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Maps/3.umap",
+				"D:/UIUC/24sp/CS415/mp1/CS415-24SP/OnlineLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Obstacle.uasset",
 				"D:/UIUC/24sp/CS415/mp2/OnlineLearningKit/Content/LearningKit_Robots/Audio/HealthCUE.uasset"
 			]
 		}
